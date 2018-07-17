@@ -1,0 +1,26 @@
+Game Development 1 Assignments:
+* Write a command line game of your choice. Something simple without a lot of animations or color needed.
+
+Suggestions:
+Mastermind
+Tic-Tac-Toe
+3d Tic Tac Toe
+Connect 4
+Sudoku
+Minesweeper
+Hangman
+Word Search
+Game of Life
+Cryptographic Cipher Encoder/Decoder
+Flash cards quiz game
+Base converter
+Metric to Imperial converter
+Matching game (guess two cards on the board until you find pairs)
+Go Fish
+War
+Othello
+
+
+* Use Processing to create a visualization of the game.
+
+* Mentor request: Let me know which resources helped you get started with Processing (tutorials on placing pixels, getting mouse input, etc). Add to the brainstorm list of possible games. Thanks!
